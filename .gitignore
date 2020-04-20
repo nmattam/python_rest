@@ -1,0 +1,6 @@
+*.pyc
+profiles_api/**/admin.cpython-36.pyc
+profiles_project/__pycache__/
+ubuntu-bionic-18.04-cloudimg-console.log
+db.sqlite3
+.vagrant/
